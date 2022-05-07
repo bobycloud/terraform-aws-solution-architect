@@ -7,15 +7,15 @@
 
 ## Published articles:
 
- - [Terraform AWS Solution Architect Tutorial - Part 1 - IAM]() InProgress
+ - [Terraform AWS Solution Architect Tutorial - Part 1 - IAM] () InProgress
 
- - [Terraform AWS Solution Architect Tutorial - Part 2 - EC2]() InProgress
+ - [Terraform AWS Solution Architect Tutorial - Part 2 - EC2] () InProgress
 
- - [Terraform AWS Solution Architect Tutorial - Part 3 - RDS]() InProgress
+ - [Terraform AWS Solution Architect Tutorial - Part 3 - RDS] () InProgress
 
- - [Terraform AWS Solution Architect Tutorial - Part 4 - S3]() InProgress
+ - [Terraform AWS Solution Architect Tutorial - Part 4 - S3] () InProgress
 
- - [Terraform AWS Solution Architect Tutorial - Part 5 - Decoupling applications: SQS, SNS, Kinesis, Active MQ ]() InProgress
+ - [Terraform AWS Solution Architect Tutorial - Part 5 - Decoupling applications: SQS, SNS, Kinesis, Active MQ ] () InProgress
 
 ## Contributions:
 
