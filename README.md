@@ -1,4 +1,4 @@
-# # Terraform AWS Solution Architect
+# Terraform AWS Solution Architect
 
 <p align="center">
  <img alt="Terraform Logo" src="image/terraform-aws.png">
@@ -7,15 +7,15 @@
 
 ## Published articles:
 
- - [FinOps Tutorial - Part 1 - AWS Non Office time](https://medium.com/@ahmadalibagheri2010/finops-part-1-non-office-time-c9ccce5dab8)
+ - [Terraform AWS Solution Architect Tutorial - Part 1 - IAM]() InProgress
 
- - [FinOps Tutorial - Part 2 - AWS Instance Type](https://medium.com/@ahmadali-bagheri/finops-part-2-aws-instance-type-3b77a2e146b0)
+ - [Terraform AWS Solution Architect Tutorial - Part 2 - EC2]() InProgress
 
- - [FinOps Tutorial - Part 3 - AWS Spot and On-Demand]() InProgress
+ - [Terraform AWS Solution Architect Tutorial - Part 3 - RDS]() InProgress
 
- - [FinOps Tutorial - Part 4 - Opmitize Infrastructure]() InProgress
+ - [Terraform AWS Solution Architect Tutorial - Part 4 - S3]() InProgress
 
- - [FinOps Tutorial - Part 5 - Kubernetes Taint and Tolerations]() InProgress
+ - [Terraform AWS Solution Architect Tutorial - Part 5 - Decoupling applications: SQS, SNS, Kinesis, Active MQ ]() InProgress
 
 ## Contributions:
 
@@ -25,6 +25,6 @@ If you find any **bugs** in the examples, please file an issue.
 
 ### TODO:
 
- - [ ] Adding FinOps Hidden coste
- - [ ] Adding FinOps Using customize serivces
+ - [ ] Adding Terraform AWS Solution Architect ...
+ - [ ] Adding Terraform AWS Solution Architect ...
 
